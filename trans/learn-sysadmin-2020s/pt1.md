@@ -1,4 +1,4 @@
-# 第一部分打基础
+# 第一部分：基础
 
 Laying the Foundation
 

@@ -1,4 +1,4 @@
-# 第三部分第二天练习和开灯
+# 第三部分：练习和保持
 
 Day Two Practices and Keeping the Lights On
 

@@ -1,4 +1,4 @@
-# 第二部分强化核心技能
+# 第二部分：强化核心技能
 
 Strengthening Core Skills
 
