@@ -1,4 +1,4 @@
-# 第 1 部分：Linux 发行版
+# 第一部分：Linux 发行版
 
 Linux Distros
 
