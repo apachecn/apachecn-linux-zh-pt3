@@ -1,5 +1,7 @@
 # 第一部分：简介
 
+<!-- ch 1~2 -->
+
 Introduction
 
 *的第 1 部分面向系统管理员的 Linux 哲学*向您介绍了 Unix 哲学和最初的 Linux 哲学，它直接来源于 Unix 哲学。您将了解一些关于 Unix 和 Linux 发展的历史和参与者，以及他们是如何首先带来 Unix 哲学，然后是 Linux 哲学的。
