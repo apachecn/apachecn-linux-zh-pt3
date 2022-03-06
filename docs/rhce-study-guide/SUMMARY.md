@@ -1,3 +1,4 @@
++   [RCHE 学习指南](README.md)
 +   [一、理解 Ansible 和红帽 RHCE](01.md)
 +   [二、将 Ansible 用于配置](02.md)
 +   [三、创建一个 Ansible 库存](03.md)
@@ -13,4 +14,3 @@
 +   [十三、下载角色](13.md)
 +   [十四、使用 Ansible 配置存储](14.md)
 +   [十五、使用 Ansible 管理计划任务](15.md)
-+   [RCHE 学习指南](README.md)
