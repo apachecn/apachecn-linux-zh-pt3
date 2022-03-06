@@ -2,7 +2,7 @@
 +   [第一部分：开始](pt1.md)
 	+   [一、Linux 简介](01.md)
 	+   [二、安装 Linux](02.md)
-	+   [三、VirtualBox、Git 和Vagrant 简介](03.md)
+	+   [三、VirtualBox、Git 和 Vagrant 简介](03.md)
 	+   [四、Linux 基础知识](04.md)
 	+   [五、用户和组](05.md)
 	+   [六、启动和服务](06.md)
