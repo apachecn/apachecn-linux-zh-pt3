@@ -1,6 +1,10 @@
 # RCHE 学习指南
 
-> 协议：[Red Hat Certified Engineer (RHCE) Study Guide](https://zh.book4you.org/book/12058080/770789)
+> 原文：[Red Hat Certified Engineer (RHCE) Study Guide](https://zh.book4you.org/book/12058080/770789)
+> 
+> 协议：CC BY-NC-SA 4.0
+>
+> 阶段：机翻（1）
 > 
 > 敢同恶鬼争高下，不向霸王让寸分。——《七律·庆祝第二次核试验成功》
 

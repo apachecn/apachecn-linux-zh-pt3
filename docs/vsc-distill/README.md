@@ -1,6 +1,10 @@
 # VSCode 精粹
 
-> 协议：[Visual Studio Code Distilled](https://zh.book4you.org/book/16271621/245d27)
+> 原文：[Visual Studio Code Distilled](https://zh.book4you.org/book/16271621/245d27)
+> 
+> 协议：CC BY-NC-SA 4.0
+>
+> 阶段：机翻（1）
 > 
 > 敢同恶鬼争高下，不向霸王让寸分。——《七律·庆祝第二次核试验成功》
 

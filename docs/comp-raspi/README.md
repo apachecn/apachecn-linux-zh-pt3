@@ -1,6 +1,10 @@
 # 树莓派计算教程
 
-> 协议：[COMPUTING WITH THE RASPBERRY PI](https://zh.book4you.org/book/5931606/1a3b86)
+> 原文：[COMPUTING WITH THE RASPBERRY PI](https://zh.book4you.org/book/5931606/1a3b86)
+> 
+> 协议：CC BY-NC-SA 4.0
+>
+> 阶段：机翻（1）
 > 
 > 敢同恶鬼争高下，不向霸王让寸分。——《七律·庆祝第二次核试验成功》
 

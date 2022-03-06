@@ -1,6 +1,10 @@
 # Windows 的 Linux 子系统学习手册
 
-> 协议：[Learn Windows Subsystem for Linux](https://zh.book4you.org/book/5881101/0cc300)
+> 原文：[Learn Windows Subsystem for Linux](https://zh.book4you.org/book/5881101/0cc300)
+> 
+> 协议：CC BY-NC-SA 4.0
+>
+> 阶段：机翻（1）
 > 
 > 敢同恶鬼争高下，不向霸王让寸分。——《七律·庆祝第二次核试验成功》
 

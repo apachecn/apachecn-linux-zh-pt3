@@ -1,6 +1,10 @@
 # Linux 系统管理的哲学
 
-> 协议：[The Linux Philosophy for SysAdmins](https://zh.book4you.org/book/3691448/85aa44)
+> 原文：[The Linux Philosophy for SysAdmins](https://zh.book4you.org/book/3691448/85aa44)
+> 
+> 协议：CC BY-NC-SA 4.0
+>
+> 阶段：机翻（1）
 > 
 > 敢同恶鬼争高下，不向霸王让寸分。——《七律·庆祝第二次核试验成功》
 

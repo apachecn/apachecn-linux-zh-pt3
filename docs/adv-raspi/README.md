@@ -1,6 +1,10 @@
 # 树莓派高级教程
 
-> 协议：[Advanced Raspberry Pi](https://zh.book4you.org/book/3691496/77be96)
+> 原文：[Advanced Raspberry Pi](https://zh.book4you.org/book/3691496/77be96)
+> 
+> 协议：CC BY-NC-SA 4.0
+>
+> 阶段：机翻（1）
 > 
 > 敢同恶鬼争高下，不向霸王让寸分。——《七律·庆祝第二次核试验成功》
 

@@ -1,6 +1,10 @@
 # Linux 终端基础提示和技巧
 
-> 协议：[Basic Linux Terminal Tips and Tricks](https://zh.book4you.org/book/5681772/6c0121)
+> 原文：[Basic Linux Terminal Tips and Tricks](https://zh.book4you.org/book/5681772/6c0121)
+> 
+> 协议：CC BY-NC-SA 4.0
+>
+> 阶段：机翻（1）
 > 
 > 敢同恶鬼争高下，不向霸王让寸分。——《七律·庆祝第二次核试验成功》
 

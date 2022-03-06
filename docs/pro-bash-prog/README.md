@@ -1,6 +1,10 @@
 # Bash 编程高级教程
 
-> 协议：[Pro Bash Programming](https://zh.book4you.org/book/2562236/4e277b)
+> 原文：[Pro Bash Programming](https://zh.book4you.org/book/2562236/4e277b)
+> 
+> 协议：CC BY-NC-SA 4.0
+>
+> 阶段：机翻（1）
 > 
 > 敢同恶鬼争高下，不向霸王让寸分。——《七律·庆祝第二次核试验成功》
 

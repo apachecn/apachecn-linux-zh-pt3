@@ -1,6 +1,10 @@
 # Linux 内核网络教程
 
-> 协议：[Linux kernel networking](https://zh.book4you.org/book/2341718/8cda5f)
+> 原文：[Linux kernel networking](https://zh.book4you.org/book/2341718/8cda5f)
+> 
+> 协议：CC BY-NC-SA 4.0
+>
+> 阶段：机翻（1）
 > 
 > 敢同恶鬼争高下，不向霸王让寸分。——《七律·庆祝第二次核试验成功》
 
