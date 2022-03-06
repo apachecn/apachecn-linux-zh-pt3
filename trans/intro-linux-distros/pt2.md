@@ -1,5 +1,4 @@
-# 第 2 部分
-通用发行版
+# 第二部分：通用发行版
 
 General Purpose Distros
 

@@ -1,5 +1,4 @@
-# 第 1 部分
-Linux 杂技团
+# 第 1 部分：Linux 发行版
 
 Linux Distros
 

@@ -1,5 +1,4 @@
-# 第 3 部分
-面向任务的发行版
+# 第三部分：面向任务的发行版
 
 Task-Oriented Distros
 
